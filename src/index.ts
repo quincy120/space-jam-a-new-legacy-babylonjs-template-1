@@ -77,7 +77,7 @@ var createScene = async function () {
   // Create PhotoDome with a .png image and add it to the scene
   var dome = new PhotoDome(
     "mydome",
-    "https://sjanlassets.blob.core.windows.net/assets/Looney-Court.png",
+    "assets/Looney-Court.png",
     {
         resolution: 32,
         size: 100
